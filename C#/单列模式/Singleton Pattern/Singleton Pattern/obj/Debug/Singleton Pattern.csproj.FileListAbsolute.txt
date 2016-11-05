@@ -1,0 +1,1 @@
+C:\Users\tang\OneDrive\workspace\practice\C#\单列模式\Singleton Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.exe.config

@@ -1,0 +1,6 @@
+C:\Users\tang\OneDrive\workspace\practice\C#\简单工厂类\Simple Factory Pattern\Simple Factory Pattern\bin\Debug\Simple Factory Pattern.exe.config
+C:\Users\tang\OneDrive\workspace\practice\C#\简单工厂类\Simple Factory Pattern\Simple Factory Pattern\bin\Debug\Simple Factory Pattern.exe
+C:\Users\tang\OneDrive\workspace\practice\C#\简单工厂类\Simple Factory Pattern\Simple Factory Pattern\bin\Debug\Simple Factory Pattern.pdb
+C:\Users\tang\OneDrive\workspace\practice\C#\简单工厂类\Simple Factory Pattern\Simple Factory Pattern\obj\Debug\Simple Factory Pattern.csprojResolveAssemblyReference.cache
+C:\Users\tang\OneDrive\workspace\practice\C#\简单工厂类\Simple Factory Pattern\Simple Factory Pattern\obj\Debug\Simple Factory Pattern.exe
+C:\Users\tang\OneDrive\workspace\practice\C#\简单工厂类\Simple Factory Pattern\Simple Factory Pattern\obj\Debug\Simple Factory Pattern.pdb

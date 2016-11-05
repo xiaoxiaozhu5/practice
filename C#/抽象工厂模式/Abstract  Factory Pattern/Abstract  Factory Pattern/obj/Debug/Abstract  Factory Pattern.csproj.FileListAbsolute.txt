@@ -1,0 +1,6 @@
+C:\Users\tang\OneDrive\workspace\practice\C#\抽象工厂模式\Abstract  Factory Pattern\Abstract  Factory Pattern\bin\Debug\Abstract  Factory Pattern.exe.config
+C:\Users\tang\OneDrive\workspace\practice\C#\抽象工厂模式\Abstract  Factory Pattern\Abstract  Factory Pattern\bin\Debug\Abstract  Factory Pattern.exe
+C:\Users\tang\OneDrive\workspace\practice\C#\抽象工厂模式\Abstract  Factory Pattern\Abstract  Factory Pattern\bin\Debug\Abstract  Factory Pattern.pdb
+C:\Users\tang\OneDrive\workspace\practice\C#\抽象工厂模式\Abstract  Factory Pattern\Abstract  Factory Pattern\obj\Debug\Abstract  Factory Pattern.csprojResolveAssemblyReference.cache
+C:\Users\tang\OneDrive\workspace\practice\C#\抽象工厂模式\Abstract  Factory Pattern\Abstract  Factory Pattern\obj\Debug\Abstract  Factory Pattern.exe
+C:\Users\tang\OneDrive\workspace\practice\C#\抽象工厂模式\Abstract  Factory Pattern\Abstract  Factory Pattern\obj\Debug\Abstract  Factory Pattern.pdb

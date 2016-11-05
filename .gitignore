@@ -36,3 +36,8 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user
 
+# C#
+/.vs
+/bin
+/obj
+

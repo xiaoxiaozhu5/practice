@@ -1,0 +1,6 @@
+C:\Users\tang\OneDrive\workspace\practice\C#\工厂方法模式\Factory Method Pattern\Factory Method Pattern\bin\Debug\Factory Method Pattern.exe.config
+C:\Users\tang\OneDrive\workspace\practice\C#\工厂方法模式\Factory Method Pattern\Factory Method Pattern\bin\Debug\Factory Method Pattern.exe
+C:\Users\tang\OneDrive\workspace\practice\C#\工厂方法模式\Factory Method Pattern\Factory Method Pattern\bin\Debug\Factory Method Pattern.pdb
+C:\Users\tang\OneDrive\workspace\practice\C#\工厂方法模式\Factory Method Pattern\Factory Method Pattern\obj\Debug\Factory Method Pattern.csprojResolveAssemblyReference.cache
+C:\Users\tang\OneDrive\workspace\practice\C#\工厂方法模式\Factory Method Pattern\Factory Method Pattern\obj\Debug\Factory Method Pattern.exe
+C:\Users\tang\OneDrive\workspace\practice\C#\工厂方法模式\Factory Method Pattern\Factory Method Pattern\obj\Debug\Factory Method Pattern.pdb
